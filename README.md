@@ -2,7 +2,10 @@
 
 ## 🚀 Progress Tracker
 
-## Phase 1 - IN PROGRESS
+## 🚀 Overall Progress
+
+🟨⬜⬜⬜⬜⬜  _(0 of 6 Phases Complete)_
+
 
 ### ✅ Phase Checklist
 

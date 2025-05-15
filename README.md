@@ -2,8 +2,6 @@
 
 ## 🚀 Progress Tracker
 
-## 🚀 Overall Progress
-
 🟨⬜⬜⬜⬜⬜  _(0 of 6 Phases Complete)_
 
 

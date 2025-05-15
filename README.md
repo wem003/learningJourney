@@ -14,6 +14,7 @@
 - [ ] Phase 5: Containerization & Orchestration  
 - [ ] Phase 6: Capstone Project  
 
+---
 
 Welcome to my ongoing journey to deepen hands-on technical expertise and leadership skills in software engineering, cloud, and machine learning.
 

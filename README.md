@@ -1,12 +1,9 @@
 # Professional Growth & Technical Upskilling Roadmap
 
-<br>
 ## 🚀 Progress Tracker
 
 🟨⬜⬜⬜⬜⬜  _(0 of 6 Phases Complete)_
 
-
-<br>
 ### ✅ Phase Checklist
 
 - [ ] Phase 1: Strengthen Programming Foundations  - (IN PROGRESS)

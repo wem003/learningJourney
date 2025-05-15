@@ -2,6 +2,8 @@
 
 ## 🚀 Progress Tracker
 
+## Phase 1 - IN PROGRESS
+
 ### ✅ Phase Checklist
 
 - [ ] Phase 1: Strengthen Programming Foundations  

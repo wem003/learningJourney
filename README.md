@@ -5,9 +5,6 @@
 **Current Phase Progress:**  
 
 
-**Current Phase Progress:**  
-
-
 ### ✅ Phase Checklist
 
 - [ ] Phase 1: Strengthen Programming Foundations  

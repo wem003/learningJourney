@@ -7,7 +7,7 @@
 
 ### ✅ Phase Checklist
 
-- [ ] Phase 1: Strengthen Programming Foundations  
+- [x] Phase 1: Strengthen Programming Foundations  
 - [ ] Phase 2: Cloud & Machine Learning Fundamentals  
 - [ ] Phase 3: AWS Architecture & Security (Optional)  
 - [ ] Phase 4: Practical Machine Learning Engineering  

@@ -1,9 +1,8 @@
 # Professional Growth & Technical Upskilling Roadmap
 
-## Progress Tracker
+## 🚀 Progress Tracker
 
 **Current Phase Progress:**  
-
 
 ### ✅ Phase Checklist
 

@@ -1,19 +1,22 @@
 # Professional Growth & Technical Upskilling Roadmap
 
+<br>
 ## 🚀 Progress Tracker
 
 🟨⬜⬜⬜⬜⬜  _(0 of 6 Phases Complete)_
 
 
+<br>
 ### ✅ Phase Checklist
 
-- [ ] Phase 1: Strengthen Programming Foundations  
+- [ ] Phase 1: Strengthen Programming Foundations  - (IN PROGRESS)
 - [ ] Phase 2: Cloud & Machine Learning Fundamentals  
 - [ ] Phase 3: AWS Architecture & Security (Optional)  
 - [ ] Phase 4: Practical Machine Learning Engineering  
 - [ ] Phase 5: Containerization & Orchestration  
 - [ ] Phase 6: Capstone Project  
-
+<br>
+<br>
 ---
 
 Welcome to my ongoing journey to deepen hands-on technical expertise and leadership skills in software engineering, cloud, and machine learning.
